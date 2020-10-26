@@ -5,3 +5,4 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 Assets/VR/Materials/map2_resized.jpg filter=lfs diff=lfs merge=lfs -text
 Images/map2_resized.xcf filter=lfs diff=lfs merge=lfs -text
+Assets/VR/Materials/map2_resized.jp filter=lfs diff=lfs merge=lfs -text
