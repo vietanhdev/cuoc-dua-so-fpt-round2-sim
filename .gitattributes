@@ -2,3 +2,6 @@
 *.tga filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+Assets/VR/Materials/map2_resized.jpg filter=lfs diff=lfs merge=lfs -text
+Images/map2_resized.xcf filter=lfs diff=lfs merge=lfs -text
